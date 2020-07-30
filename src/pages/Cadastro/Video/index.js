@@ -10,6 +10,11 @@ function CadastroVideo() {
         <Link to="/cadastro/categoria">
           Cadastrar categoria
         </Link>
+        
+      
+        <Link to="/cadastro/pokemon">
+          Cadastrar Pokemon
+        </Link>
       </PageDefault>
     );
   }

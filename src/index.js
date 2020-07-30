@@ -6,7 +6,6 @@ import CadastroVideo from  './pages/Cadastro/Video'
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import CadastroCategoria from './pages/Cadastro/Categoria';
 
-
 ReactDOM.render(
   <BrowserRouter>
       <Switch>
